@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 import '../utils/ResponsiveLayout.dart';
-//import 'sendbtn.dart';
+
 
 class SocialMediaBar extends StatelessWidget {
   @override
@@ -55,4 +55,4 @@ class SocialMediaBar extends StatelessWidget {
       ),
     );
   }
-}
+}*/

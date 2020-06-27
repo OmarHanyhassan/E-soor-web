@@ -1,6 +1,6 @@
-import 'package:EsoorWeb/Screens/ContactUs.dart';
-import 'package:EsoorWeb/Screens/ExploreApp.dart';
-import 'package:EsoorWeb/main.dart';
+import 'package:EsoorWeb/Screens/contact_us.dart';
+import 'package:EsoorWeb/Screens/explore_app.dart';
+import 'package:EsoorWeb/Screens/home.dart';
 import 'package:flutter/material.dart';
 import '../utils/ResponsiveLayout.dart';
 
