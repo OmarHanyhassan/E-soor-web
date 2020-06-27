@@ -1,7 +1,7 @@
+import 'package:flutter/material.dart';
 import 'package:EsoorWeb/Screens/contact_us.dart';
 import 'package:EsoorWeb/Screens/explore_app.dart';
 import 'package:EsoorWeb/Screens/home.dart';
-import 'package:flutter/material.dart';
 import '../utils/ResponsiveLayout.dart';
 
 class NavBar extends StatelessWidget {
